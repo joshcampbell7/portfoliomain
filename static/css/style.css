@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+*{
+    /*font-family: 'Staatliches', cursive;*/
+    font-family: 'Russo One', sans-serif;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.col-sm-6 img:hover {
+    transform: scale(0.9);
+}
+
+.col-sm-6 a:hover {
+    transform: scale(0.9);
+}
+
+.about-me-title-1:hover{
+    font-size: 20px;
+}
+
+#github-footer{
+    color: black;
+}
+
+.contact-colour{
+    color: white;
+}
+
+#linkedin-footer{
+    color: black;
+}
+
+.about-me-title-1{
+    color: white;
+    text-decoration: underline white;
+
+}
+
+.about-me-title{
+    color: white;
+    text-decoration: underline white;}
+#skills1{
+    background-color:#3380FF ;
+}
+#skills2{
+    background-color:#3380FF ;
+}
+
+#contact-me{
+    background-color:#3380FF ;
+}
+
+#about-me-id{
+    background-color:#3380FF ;
+}
+
+
+
+
+.skills-icon img {
+    width: 50px;
+    height: 50px;
+}
+
+.skills-icon li {
+    text-align: left;
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 20px;
+
+}
+
+.skills-icon hover{
+    transform: scale(1.1);
+}
+
+.my-skills{
+    color: white;
+    text-decoration: underline white;
+}
+
+.university-image {
+    width: 50%;
+    height: 50%;
+
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+#contact-form {
+    margin: 0 auto;
+}
+
+.university-box{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+.joshua{
+    text-decoration: underline;
+}
+
+#placeholder{
+    width: 736px;
+    height: 359px;
+}
+.about-me-box{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+.about-me-box-list ul{
+    list-style-type: none;
+}
+.university-text{
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.email-box{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+.email-form{
+    display: flex;
+    justify-content: center;
+}
+
+.email-text{
+    text-align: center;
+}
+
+.form-message{
+
+    padding-bottom: 100px ;
+}
+
+#github-box:hover{
+    transform: scale(1.2);
+}
+
+#linkedin-box:hover{
+    transform: scale(1.2);
+}
+
+#email:hover{
+    transform: scale(1.2);
+}
