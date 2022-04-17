@@ -51,7 +51,7 @@ body {
   .card h2 a{
     color: black;
     text-decoration: underline;
-    font-size: 1.8em;
+    font-size: 1.5em;
   }
 
   .card h2 a::after{
